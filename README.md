@@ -1,10 +1,10 @@
 # US Operations Jobs
 
-Open operations roles at US employers: 385 operations roles at 206 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=operations).** Last updated 2026-11-14.
+Open operations roles at US employers: 383 operations roles at 205 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=operations).** Last updated 2026-11-15.
 
-All 385 are listed below. Browse the newest on [warmada.com/jobs/operations](https://warmada.com/jobs/operations?utm_source=github&utm_medium=list&utm_campaign=operations).
+All 383 are listed below. Browse the newest on [warmada.com/jobs/operations](https://warmada.com/jobs/operations?utm_source=github&utm_medium=list&utm_campaign=operations).
 
-**By city:** New York (53) · San Francisco (64) · Seattle (4) · Boston (8) · Austin (8) · Chicago (9) · Los Angeles (6) · Denver (7) · Washington, DC (2) · Atlanta (6) · Dallas (4) · Miami (1) · Philadelphia (3) · Remote (73) · Elsewhere in the US (137)
+**By city:** New York (53) · San Francisco (65) · Seattle (4) · Boston (8) · Austin (8) · Chicago (9) · Los Angeles (6) · Denver (7) · Washington, DC (2) · Atlanta (6) · Dallas (4) · Miami (1) · Philadelphia (2) · Remote (73) · Elsewhere in the US (135)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when keywords in its title say it is a operations role, so one can land on the wrong list. A role in several cities is listed once, under the first of them. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -68,10 +68,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [HelloFresh](https://warmada.com/companies/hellofresh?utm_source=github&utm_medium=list&utm_campaign=operations) | Creative Operations Associate Manager | New York, NY, United States | Nov 2 | [Apply](https://careers.hellofresh.com/global/en/job/8346959?gh_jid=8346959) · [Find the hiring manager](https://warmada.com/job/hellofresh-creative-operations-associate-manager-3923fc8c-e14d-47e1-946d-a94fd0413cfb?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | [Norm](https://warmada.com/companies/norm?utm_source=github&utm_medium=list&utm_campaign=operations) | Legal Operations Manager | New York City | Nov 2 | [Apply](https://jobs.ashbyhq.com/norm/d60cfbf4-dc37-44d8-873f-8b9f428d1c7f) · [Find the hiring manager](https://warmada.com/job/norm-legal-operations-manager-3064175d-d50f-4e8f-96fd-c07193fe5375?utm_source=github&utm_medium=list&utm_campaign=operations) |
 
-## San Francisco (64)
+## San Francisco (65)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| Ambrook | Operations Associate, San Francisco | San Francisco | Nov 14 | [Apply](https://jobs.ashbyhq.com/ambrook/686819c1-5a5e-4151-8a0a-2647aa17693b) · [Find the hiring manager](https://warmada.com/job/ambrook-operations-associate-san-francisco-af010d73-3dc0-477d-b509-0ed8368a6865?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | [Figure](https://warmada.com/companies/figure?utm_source=github&utm_medium=list&utm_campaign=operations) | Sales Operations Analyst | Remote; San Francisco, CA | Nov 14 | [Apply](https://job-boards.greenhouse.io/figure/jobs/8937035002) · [Find the hiring manager](https://warmada.com/job/figure-sales-operations-analyst-05ec402c-6d71-4c78-b9ed-27fc39664a59?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | Render | Workplace Program Manager | San Francisco HQ | Nov 13 | [Apply](https://jobs.ashbyhq.com/render/d4a81805-6943-4017-99c5-765f1f8fc701) · [Find the hiring manager](https://warmada.com/job/render-workplace-program-manager-05b24f98-2f29-4bbb-99e5-d82b250172b1?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | [OpenAI](https://warmada.com/companies/openai?utm_source=github&utm_medium=list&utm_campaign=operations) | GTM Strategy &amp; Operations, Generalist | San Francisco | Nov 13 | [Apply](https://jobs.ashbyhq.com/openai/58b0c1ff-9a9a-4a8a-a7eb-97618713574d) · [Find the hiring manager](https://warmada.com/job/openai-gtm-strategy-and-operations-generalist-22a616b9-2ef5-4390-8c8d-9ccb5a83e391?utm_source=github&utm_medium=list&utm_campaign=operations) |
@@ -242,13 +243,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Benesch](https://warmada.com/companies/benesch?utm_source=github&utm_medium=list&utm_campaign=operations) | Impact Fees and Special Assessments Project Manager | Fort Lauderdale, FL; Jacksonville, FL; Miami, FL; Tallahassee, FL; Tampa, FL | Nov 6 | [Apply](https://www.benesch.com/job-openings/5287898007?gh_jid=5287898007) · [Find the hiring manager](https://warmada.com/job/benesch-impact-fees-and-special-assessments-project-manager-adde1f7f-8156-4450-acff-1212bc91b96d?utm_source=github&utm_medium=list&utm_campaign=operations) |
 
-## Philadelphia (3)
+## Philadelphia (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [HealthVerity](https://warmada.com/companies/healthverity?utm_source=github&utm_medium=list&utm_campaign=operations) | Director, Sales Operations &amp; Analytics | Philadelphia, PA | Nov 9 | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5477009008) · [Find the hiring manager](https://warmada.com/job/healthverity-director-sales-operations-and-analytics-f3f796ab-6c74-4d01-b7cf-d845a8eaa439?utm_source=github&utm_medium=list&utm_campaign=operations) |
+| HealthVerity | Director, Sales Operations &amp; Analytics | Philadelphia, PA | Nov 9 | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5477009008) · [Find the hiring manager](https://warmada.com/job/healthverity-director-sales-operations-and-analytics-f3f796ab-6c74-4d01-b7cf-d845a8eaa439?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=operations) | Operations Manager \| Philadelphia | Philadelphia, Pennsylvania | Nov 2 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8162763003) · [Find the hiring manager](https://warmada.com/job/blank-street-operations-manager-philadelphia-f6572098-6d14-4266-b96c-70a4c8ddbf91?utm_source=github&utm_medium=list&utm_campaign=operations) |
-| [HealthVerity](https://warmada.com/companies/healthverity?utm_source=github&utm_medium=list&utm_campaign=operations) | Senior Associate, Sales Operations | Philadelphia, PA | Nov 1 | [Apply](https://healthverity.com/careers/jobs/?gh_jid=5469333008) · [Find the hiring manager](https://warmada.com/job/healthverity-senior-associate-sales-operations-1b9a4741-5951-4b9c-ab87-85313a73f4f2?utm_source=github&utm_medium=list&utm_campaign=operations) |
 
 ## Remote (73)
 
@@ -328,7 +328,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Coinbase](https://warmada.com/companies/coinbase?utm_source=github&utm_medium=list&utm_campaign=operations) | Senior Risk Analyst, Payments Risk Operations | Remote - USA | Nov 2 | [Apply](https://www.coinbase.com/careers/positions/8346266?gh_jid=8346266) · [Find the hiring manager](https://warmada.com/job/coinbase-senior-risk-analyst-payments-risk-operations-98a7c687-0c92-41a3-b19f-9506896a84b9?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | [Kraken](https://warmada.com/companies/kraken?utm_source=github&utm_medium=list&utm_campaign=operations) | Lead, Business Operations - Payward Services | United States | Nov 2 | [Apply](https://jobs.ashbyhq.com/kraken.com/fcc71f16-a856-411b-8359-9a23b94acaf8) · [Find the hiring manager](https://warmada.com/job/kraken-lead-business-operations-payward-services-1fcd5330-3f11-44cd-832a-f771d8d9efb9?utm_source=github&utm_medium=list&utm_campaign=operations) |
 
-## Elsewhere in the US (137)
+## Elsewhere in the US (135)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -467,5 +467,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=operations) | Staff Global Supply Chain Manager, Raw Materials | Southfield, MI | Nov 2 | [Apply](https://lucidmotors.com/careers/search/5271828007?gh_jid=5271828007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-staff-global-supply-chain-manager-raw-materials-62d907c9-826e-421b-acff-a91e8e900ffe?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | [Palantir](https://warmada.com/companies/palantir?utm_source=github&utm_medium=list&utm_campaign=operations) | Sales Finance Operations Analyst | Palo Alto, CA | Nov 2 | [Apply](https://jobs.lever.co/palantir/d505f854-d339-448b-bf7e-46e2f32cff78) · [Find the hiring manager](https://warmada.com/job/palantir-sales-finance-operations-analyst-e1ca3af6-80e0-4702-a34c-3924b0ef7fef?utm_source=github&utm_medium=list&utm_campaign=operations) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=operations) | District Operations Manager | Little Rock, AR | Nov 2 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8337867) · [Find the hiring manager](https://warmada.com/job/equipmentshare-district-operations-manager-7a909d82-5ea6-4224-9c50-1c4d90c0ddc1?utm_source=github&utm_medium=list&utm_campaign=operations) |
-| Marble Health | Care Operations Associate (Remote, Mountain/Pacific) | Remote, California | Oct 31 | [Apply](https://jobs.ashbyhq.com/marblehealth/b61d52b0-0a79-4e57-ad4d-4ad5e06c9ea4) · [Find the hiring manager](https://warmada.com/job/marble-health-care-operations-associate-remote-mountain-pacific-2f9869b8-5d9a-4ae3-8878-5caa2872952f?utm_source=github&utm_medium=list&utm_campaign=operations) |
-| [Roboflow](https://warmada.com/companies/roboflow?utm_source=github&utm_medium=list&utm_campaign=operations) | Sales Operations Analyst | NY, SF or Remote (US) | Oct 31 | [Apply](https://jobs.ashbyhq.com/roboflow/34c551fd-890b-4ee8-acc0-ba199d677988) · [Find the hiring manager](https://warmada.com/job/roboflow-sales-operations-analyst-c0285605-a5ba-4ef8-bd47-daa2acf0148d?utm_source=github&utm_medium=list&utm_campaign=operations) |
